@@ -1,4 +1,4 @@
-# PlayStation-Home-Hen-Offline
+# PlayStation Home 1.86 HEN Version
 
 <p align="center">
     PlayStation Home 1.86 Offline Client compatible with HEN/HFW Systems.
@@ -36,3 +36,6 @@ Greetings Homesters, as the Destination Home Team is working on a online server 
 - Released test client ```PlayStation Home Developer | HEN-QA Launcher``` to show proof of concept.
 - Build only has an early revision of `SCEE Bowling Alley` aka Game Space.
 - There are no games nor screenlinks for this scene as it was just for testing purposes. + This scene is not fully comptaible with 1.86, thus their is missing models for the TV screens, as you can see from the picture below:
+
+![PlayStation®Home Developer   HEN-QA Launcher](https://user-images.githubusercontent.com/67494727/140633633-fd40075a-df5e-432c-8901-c2c6e79bd285.png)
+
