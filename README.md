@@ -17,9 +17,9 @@ Greetings Homesters, as the Destination Home Team is working on a online server 
 
 # Prerequisites:
 
-- Any PS3 with HEN/HFW Installed (I recommend being on the lastest version which is 4.88 as of `11/7/2021`)
+- Any PS3 with HEN/HFW Installed. I recommend being on the lastest version which is 4.88 as of `11/7/2021`. If your not on HEN/HFW you can watch my offical tutorial guide [here](https://youtu.be/oJWhmBwlCcQ).
 - Download the latest release PKG & `GAMES` app folder from releases.
-- A FAT32 USB Stick to install [PlayStation Home Developer | HEN-QA Launcher]() *note this is a pre-release build*
+- A FAT32 USB Stick to install [PlayStation Home Developer | HEN-QA Launcher](https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/releases/tag/0.01) *note this is a pre-release build*
 
 # 2-Do List For Build:
 
