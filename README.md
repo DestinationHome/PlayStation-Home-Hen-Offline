@@ -1,4 +1,38 @@
 # PlayStation-Home-Hen-Offline
-PlayStation Home 1.86 Offline Client compatible with HEN/HFW.
+
+<p align="center">
+    PlayStation Home 1.86 Offline Client compatible with HEN/HFW Systems.
+</p>
+
+![screenshot_2021_11_06_21_51_42](https://user-images.githubusercontent.com/67494727/140632062-ed93bea0-f144-4e7a-ac98-a57d564db1a4.png)
+
+# About this repo:
+
+![PlayStationÂ®Home Developer   HEN-QA Launcher](https://user-images.githubusercontent.com/67494727/140632031-0ee81fb5-b2a6-4a5c-bd81-06a05520a3b2.png)
 
 - currently wip~
+
+Greetings Homesters, as the Destination Home Team is working on a online server emulation solution, I've decided to tap back into offline client for just a bit. As some of you guys might recollect on how tedious it was to boot into the offline client for Home this repo will solve *most* issues for users who want to play Home in a offline state with out the use of a `DEX/DECR/DECH PS3` along with [ProDG Target Manager](https://en.wikipedia.org/wiki/ProDG_(software)). In comparison to the original offline builds, this HEN compatible build allows users to boot into Home with the use of [multiMan](https://store.brewology.com/ahomebrew.php?brewid=24) or [webMan](https://github.com/aldostools/webMAN-MOD/releases). Currently this side-project is still in it's early phases as there are many "hoops" for the team to consider, when developing this client such as the overall client size, scene compatability, editing key files so Home won't crash, etc.
+
+
+# Prerequisites:
+
+- Any PS3 with HEN/HFW Installed (I recommend being on the lastest version which is 4.88 as of `11/7/2021`)
+- Download the latest release PKG & `GAMES` app folder from releases.
+- A FAT32 USB Stick to install [PlayStation Home Developer | HEN-QA Launcher]() *note this is a pre-release build*
+
+# 2-Do List For Build:
+
+- [ ] Release a core build with core spaces from the SCEA region of Home e.g., Action Disctrict, The Hub, Pier Park, etc.
+- [ ] Change the EBOOT, to have the ID Name as "me" instead of "Nagato"
+- [ ] Implement screenlinks poster & video content for core spaces. (Might either utilize git as a "CDN Solution" or bake videos within the build).
+- [ ] Possiblly make update packages so users can download new content such as spaces.
+
+# Build Change Logs:
+
+### Changelog 0.1
+
+`As of 11/6/2021`
+- Released test client ```PlayStation Home Developer | HEN-QA Launcher``` to show proof of concept.
+- Build only has an early revision of `SCEE Bowling Alley` aka Game Space.
+- There are no games nor screenlinks for this scene as it was just for testing purposes. + This scene is not fully comptaible with 1.86, thus their is missing models for the TV screens, as you can see from the picture below:
