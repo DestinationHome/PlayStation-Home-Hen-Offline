@@ -26,9 +26,13 @@ Greetings Homesters, as the Destination Home Team is working on a online server 
 - [ ] Release a core build with core spaces from the SCEA region of Home e.g., Action Disctrict, The Hub, Pier Park, etc.
 - [ ] Change the EBOOT, to have the ID Name as "me" instead of "Nagato"
 - [ ] Implement screenlinks poster & video content for core spaces. (Might either utilize git as a "CDN Solution" or bake videos within the build).
-- [ ] Possiblly make update packages so users can download new content such as spaces.
+- [ ] Possibly make update packages so users can download new content such as spaces.
 
 # Build Change Logs:
+
+### Changelog 0.2
+
+-
 
 ### Changelog 0.1
 
