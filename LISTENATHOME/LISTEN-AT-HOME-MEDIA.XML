@@ -1,13 +1,13 @@
 <media>
-	<mp4Audio name="Hott - Animal House"							url="https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/raw/main/ListenAtHome/HottAnimalHouse.mp4" duration="212"/>
-	<mp4Audio name="Orange Stella - Sunny Levine"					url="https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/raw/main/ListenAtHome/OrangeStellaSunnyLevine.mp4" duration="232"/>
-	<mp4Audio name="Paper Chaser Mix"								url="https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/raw/main/ListenAtHome/Paper_Chaser_Mix.mp4" duration="176"/>
-	<mp4Audio name="Revolution - Rennie Pilgrim"					url="https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/raw/main/ListenAtHome/RevolutionRenniePilgrim.mp4" duration="256"/>
-	<mp4Audio name="Rider 4 Real"									url="https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/raw/main/ListenAtHome/Rider_4_Real.mp4" duration="185"/>
-	<mp4Audio name="Bout Dat"										url="https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/raw/main/ListenAtHome/Bout_Dat.mp4" duration="277"/>
-	<mp4Audio name="Bring The Noise - Ged Grimes"					url="https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/raw/main/ListenAtHome/BringTheNoiseGedGrimes.mp4" duration="185"/>
-	<mp4Audio name="Dont Front Mix"									url="https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/raw/main/ListenAtHome/Dont_front_mix.mp4" duration="182"/>
-	<mp4Audio name="Bangkok Starters - Sunny Levine"				url="https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/raw/main/ListenAtHome/BangkokStartersSunnyLevine.mp4" duration="212"/>
-	<mp4Audio name="Tempest Home Edit - John Digweed"				url="https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/raw/main/ListenAtHome/Tempest_Home_edit-JohnDigweed.mp4" duration="212"/>
-	<mp4Audio name="Chain Swing - Animal House"						url="https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/raw/main/ListenAtHome/ChainSwingAnimalHouse.mp4" duration="221"/>
+	<mp4Audio name="Hott - Animal House"							url="MiniGames/HOMEPLAZAJUKEBOX/HottAnimalHouse.mp4" duration="212"/>
+	<mp4Audio name="Orange Stella - Sunny Levine"					url="MiniGames/HOMEPLAZAJUKEBOX/OrangeStellaSunnyLevine.mp4" duration="232"/>
+	<mp4Audio name="Paper Chaser Mix"								url="MiniGames/HOMEPLAZAJUKEBOX/Paper_Chaser_Mix.mp4" duration="176"/>
+	<mp4Audio name="Revolution - Rennie Pilgrim"					url="MiniGames/HOMEPLAZAJUKEBOX/RevolutionRenniePilgrim.mp4" duration="256"/>
+	<mp4Audio name="Rider 4 Real"									url="MiniGames/HOMEPLAZAJUKEBOX/Rider_4_Real.mp4" duration="185"/>
+	<mp4Audio name="Bout Dat"										url="MiniGames/HOMEPLAZAJUKEBOX/Bout_Dat.mp4" duration="277"/>
+	<mp4Audio name="Bring The Noise - Ged Grimes"					url="MiniGames/HOMEPLAZAJUKEBOX/BringTheNoiseGedGrimes.mp4" duration="185"/>
+	<mp4Audio name="Dont Front Mix"									url="MiniGames/HOMEPLAZAJUKEBOX/Dont_front_mix.mp4" duration="182"/>
+	<mp4Audio name="Bangkok Starters - Sunny Levine"				url="MiniGames/HOMEPLAZAJUKEBOX/BangkokStartersSunnyLevine.mp4" duration="212"/>
+	<mp4Audio name="Tempest Home Edit - John Digweed"				url="MiniGames/HOMEPLAZAJUKEBOX/Tempest_Home_edit-JohnDigweed.mp4" duration="212"/>
+	<mp4Audio name="Chain Swing - Animal House"						url="MiniGames/HOMEPLAZAJUKEBOX/ChainSwingAnimalHouse.mp4" duration="221"/>
 </media>
