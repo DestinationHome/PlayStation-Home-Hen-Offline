@@ -45,7 +45,9 @@ Greetings Homesters, as the Destination Home Team is working on a online server 
 
 ![img0001](https://user-images.githubusercontent.com/67494727/141598974-98d74a1c-0da8-47c1-bbdb-825e9be784fa.PNG)
 
-- Listen At Home Music Player has been implemented for Central Plaza. 
+- Listen At Home Music Player has been implemented for Central Plaza.
+
+https://user-images.githubusercontent.com/67494727/141604483-6d3c1cb6-3298-4adf-bbe6-202c310851ba.mp4
 
 - Add screenlinks e.g., posters & videos for Central Plaza & Mall.
 
