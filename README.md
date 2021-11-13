@@ -32,7 +32,29 @@ Greetings Homesters, as the Destination Home Team is working on a online server 
 
 ### Changelog 0.2
 
--
+<p align="center">
+    PlayStation Home Developer | HEN-QA Launcher ISO Version
+</p>
+
+![Screenshot 2021-11-12 17-42-42](https://user-images.githubusercontent.com/67494727/141574720-07016976-e63e-4e19-8283-718d61e20287.png)
+
+- Now supporting CEX/DEX/HEN PS3's
+- Added 2 new public space scenes `Central Plaza & Mall "SCEA Marketplace`
+
+![img0001](https://user-images.githubusercontent.com/67494727/141598974-98d74a1c-0da8-47c1-bbdb-825e9be784fa.PNG)
+
+- Listen At Home Music Player has been implemented for Central Plaza. 
+
+- Add screenlinks e.g., posters & videos for Central Plaza & Mall.
+
+![img0003](https://user-images.githubusercontent.com/67494727/141599576-79f43fe0-f413-40fb-909a-22cefc2d2a29.PNG)
+
+- Core files, are now downloaded from `https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/tree/main` to save space.
+
+
+
+
+
 
 ### Changelog 0.1
 
