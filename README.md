@@ -21,14 +21,13 @@ Greetings Homesters, as the Destination Home Team is working on a online server 
 - Download the latest release PKG & `GAMES` app folder from the releases [page](https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/releases).
 - A FAT32 USB Stick to install [PlayStation Home Developer | HEN-QA Launcher](https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/releases/tag/0.01) *note this is a pre-release build*
 
-
 # How to install this test client:
 
 **1.** You will need to be on a HEN/HFW PS3 system. For more information on how to install HEN on your device click this tutorial guide [here](https://www.youtube.com/watch?v=oJWhmBwlCcQ). Additionally, you will need a USB that is formatted to `FAT32` to transfer over the `PlayStation Home Developer | HEN-QA Launcher` & the `PlayStation Home Developer | HEN-QA.PKG` file.
 
 **2.** As well you will need to have either [multiMan](https://store.brewology.com/ahomebrew.php?brewid=24) or [webMan mod](https://github.com/aldostools/webMAN-MOD/releases) installed, as your going to be launching the `PlayStation Home Developer | HEN-QA Launcher` application.
 
-**3.** Once you have downloaded the necessary files from this release, you will first drag the `PlayStation.Home.Developer.HEN-QA-PreRelease.pkg` to the `ROOT` of your USB stick. Next, you will unzip the file `PlayStation.Home.Developer.HEN-QA.Launcher.zip` and drag the `GAMES` folder to the ROOT of your USB.
+**3.** Once you have downloaded the necessary files from this release, you will first drag the `PlayStation.Home.Developer.HEN-QA-PreRelease.pkg` to the `ROOT` of your USB stick. Next, you will unzip the file `PlayStation.Home.Developer.HEN-QA.Launcher.zip` and drag the `GAMES` folder to the ROOT of your USB. Alternatively, you can create a folder on your USB label `PS3ISO` & drag the new [NPIA00010.ISO](https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/blob/main/ISO/NPIA00010.ISO) file to the following directory `PS3ISO/NPIA00010.ISO`.
 
 
 https://user-images.githubusercontent.com/67494727/140634954-ab899ffb-06aa-447c-9155-da2d3ffc8664.mp4
