@@ -41,7 +41,7 @@ Greetings Homesters, as the Destination Home Team is working on a online server 
 ![Screenshot 2021-11-12 17-42-42](https://user-images.githubusercontent.com/67494727/141574720-07016976-e63e-4e19-8283-718d61e20287.png)
 
 - Now supporting CEX/DEX/HEN PS3's
-- Added 2 new public space scenes `Central Plaza & Mall "SCEA Marketplace`
+- Added 2 new public space scenes `Central Plaza & Mall "SCEA Marketplace"`
 
 ![img0001](https://user-images.githubusercontent.com/67494727/141598974-98d74a1c-0da8-47c1-bbdb-825e9be784fa.PNG)
 
