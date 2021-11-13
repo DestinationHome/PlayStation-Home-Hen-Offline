@@ -21,11 +21,29 @@ Greetings Homesters, as the Destination Home Team is working on a online server 
 - Download the latest release PKG & `GAMES` app folder from the releases [page](https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/releases).
 - A FAT32 USB Stick to install [PlayStation Home Developer | HEN-QA Launcher](https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/releases/tag/0.01) *note this is a pre-release build*
 
+
+# How to install this test client:
+
+**1.** You will need to be on a HEN/HFW PS3 system. For more information on how to install HEN on your device click this tutorial guide [here](https://www.youtube.com/watch?v=oJWhmBwlCcQ). Additionally, you will need a USB that is formatted to `FAT32` to transfer over the `PlayStation Home Developer | HEN-QA Launcher` & the `PlayStation Home Developer | HEN-QA.PKG` file.
+
+**2.** As well you will need to have either [multiMan](https://store.brewology.com/ahomebrew.php?brewid=24) or [webMan mod](https://github.com/aldostools/webMAN-MOD/releases) installed, as your going to be launching the `PlayStation Home Developer | HEN-QA Launcher` application.
+
+**3.** Once you have downloaded the necessary files from this release, you will first drag the `PlayStation.Home.Developer.HEN-QA-PreRelease.pkg` to the `ROOT` of your USB stick. Next, you will unzip the file `PlayStation.Home.Developer.HEN-QA.Launcher.zip` and drag the `GAMES` folder to the ROOT of your USB.
+
+
+https://user-images.githubusercontent.com/67494727/140634954-ab899ffb-06aa-447c-9155-da2d3ffc8664.mp4
+
+**4.** With HEN Enabled, on your PS3. Go to `★ Package Manager > Standard > PlayStation Home Developer HEN-QA-PreRelease.PKG` to install the PKG. Note this will take a couple of minutes as it's extracted a bunch of files. Once that is done, head over to multiMan & make sure your USB is still in your PS3. Go to the `Games` columns and you can see the `PlayStation Home Developer | HEN QA Launcher` click `X`.
+
+**5.** Once your back into XMB simply click the launcher and wait for Home to boot up & of course select `Offline`.
+
+![PlayStation®Home Developer   HEN-QA Launcher_1](https://user-images.githubusercontent.com/67494727/140634849-3eab60fa-5768-47cd-b0d0-f45264ef43ea.png)
+
 # 2-Do List For Build:
 
 - [ ] Release a core build with core spaces from the SCEA region of Home e.g., Action Disctrict, The Hub, Pier Park, etc.
 - [ ] Change the EBOOT, to have the ID Name as "me" instead of "Nagato"
-- [ ] Implement screenlinks poster & video content for core spaces. (Might either utilize git as a "CDN Solution" or bake videos within the build).
+- [x] Implement screenlinks poster & video content for core spaces. (Might either utilize git as a "CDN Solution" or bake videos within the build).
 - [ ] Possibly make update packages so users can download new content such as spaces.
 
 # Build Change Logs:
@@ -54,10 +72,6 @@ https://user-images.githubusercontent.com/67494727/141604483-6d3c1cb6-3298-4adf-
 ![img0003](https://user-images.githubusercontent.com/67494727/141599576-79f43fe0-f413-40fb-909a-22cefc2d2a29.PNG)
 
 - Core files, are now downloaded from `https://github.com/DestinationHome/PlayStation-Home-Hen-Offline/tree/main` to save space.
-
-
-
-
 
 
 ### Changelog 0.1
