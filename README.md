@@ -30,6 +30,8 @@ Greetings Homesters, as the Destination Home Team is working on a online server 
 
 # Build Change Logs:
 
+`As of 11/12/2021`
+
 ### Changelog 0.2
 
 <p align="center">
